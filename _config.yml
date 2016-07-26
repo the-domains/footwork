@@ -1,0 +1,14 @@
+layout_spectrum: 0.3346369944047183
+typography_spectrum: 0.5446588317863643
+color:
+  brandStrength: 0.0813787137158215
+  lightness: 0.34329634881578386
+  saturation: 0.5814189065713435
+  rhythmicContrast: 0.8381234426051378
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: footwork
