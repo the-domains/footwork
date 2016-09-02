@@ -1,4 +1,3 @@
-layout_spectrum: 0.3346369944047183
 typography_spectrum: 0.5446588317863643
 color:
   brandStrength: 0.0813787137158215
@@ -11,4 +10,6 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+layout_spectrum: 0.3346369944047183
 name: footwork
+title: Optimal Tennis
