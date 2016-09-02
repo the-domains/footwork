@@ -12,4 +12,8 @@ color:
     - '#493F0B'
 layout_spectrum: 0.3346369944047183
 name: footwork
+navigation:
+  - name: Golden Foot Challenge
+    id: b5b3d099-9123-4b7d-ba7e-c2a0100dd56f
+    type: content
 title: Optimal Tennis
