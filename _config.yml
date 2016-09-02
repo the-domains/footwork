@@ -19,4 +19,6 @@ navigation:
   - name: Maffra Tennis Tournament
     id: 1a3dd541-0457-4bf1-85b4-8b95dc11d1ec
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/27e98dff-aff5-46d3-a632-58df7bb1ace0.jpg
 title: Optimal Tennis
