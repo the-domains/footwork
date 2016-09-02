@@ -11,9 +11,12 @@ color:
     - '#A7C520'
     - '#493F0B'
 layout_spectrum: 0.3346369944047183
-name: footwork
+name: footwork tennis coaching
 navigation:
   - name: Golden Foot Challenge
     id: b5b3d099-9123-4b7d-ba7e-c2a0100dd56f
+    type: content
+  - name: Maffra Tennis Tournament
+    id: 1a3dd541-0457-4bf1-85b4-8b95dc11d1ec
     type: content
 title: Optimal Tennis
