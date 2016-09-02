@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T11:47:15.822Z'
+datePublished: '2016-08-31T11:48:41.542Z'
+sourcePath: _posts/2016-08-31-golden-foot-challenge-2014.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T11:46:51.126Z'
+dateModified: '2016-08-31T11:48:40.763Z'
 title: Golden Foot Challenge 2014
 publisher: {}
 description: 'Winners 2014: Narre Warren North defeats Mt Eliza'
 starred: false
-sourcePath: _posts/2016-08-31-golden-foot-challenge-2014.md
 _type: Blurb
 
 ---
