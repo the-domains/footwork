@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T12:05:17.651Z'
+datePublished: '2016-08-31T12:13:58.994Z'
 author:
   - name: Footwork Tennis Coaching
     url: 'http://facebook.com/1409676642616100'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T12:04:50.004Z'
+dateModified: '2016-08-31T12:13:58.126Z'
 title: Golden Foot Challenge
 publisher: {}
 description: >-
@@ -13,11 +13,9 @@ description: >-
   over Mt. Eliza TC. A packed crowd watched the nail-biting final doubles which
   went to 10-8 in the tiebreaker. Incredible performance from the boys. We'll be
   back next year to defend the title on Mount Eliza's home courts.
-starred: false
 sourcePath: _posts/2016-08-31-golden-foot-challenge.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: golden-foot-challenge/index.html
 _context: 'http://schema.org'
 _type: Article
